@@ -7,10 +7,10 @@
         {
     "name": "HentaiVN",
         "author": "tuantv",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/plugin.zip",
+        "path": "https://raw.githubusercontent.com/ClownWalker/vbook-ext/main/hentaivn/plugin.zip",
         "version": 1,
-        "source": "https://vlogtruyen18.com",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/icon.png",
+        "source": "https://hentaihvn.tv",
+        "icon": "https://raw.githubusercontent.com/ClownWalker/vbook-ext/main/hentaivn/icon.png",
     "description": "Đọc truyện trên trang HentaiVN",
         "type": "nsfw",
         "locale": "vi_VN"
