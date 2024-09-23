@@ -4,6 +4,7 @@
     "author": "tuantv",
     "version": 1,
     "source": "https://hentaihvn.tv/",
+    "regexp": "https://hentaihvn.tv/.*",
     "description": "",
     "locale": "vi-VN", 
     "language": "javascript",
